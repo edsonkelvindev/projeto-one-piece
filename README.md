@@ -1,1 +1,2 @@
-Projeto One Piece, página web criada utilizado tecnologia HTML, CSS e JavaScript e totalmente responsiva para dispositivos movéis usando recurso de Media Query.
+Desenvolvi um projeto de página web inspirada no universo de One Piece, utilizando tecnologias como HTML, CSS e JavaScript. A página é totalmente responsiva, adaptando-se perfeitamente a dispositivos móveis por meio de recursos de Media Query.
+Uma característica especial da página são os botões localizados na lateral direita, cada um representando um personagem diferente da série. Ao clicar em um desses botões, são exibidas imagem e informações correspondentes ao respectivo personagem.
