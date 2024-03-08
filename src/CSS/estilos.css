@@ -96,4 +96,5 @@ main .personagem .imagem {
 
 .botao:focus {
     outline: none;
+    box-shadow: none;
 }
