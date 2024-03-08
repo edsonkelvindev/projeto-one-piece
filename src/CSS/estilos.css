@@ -94,6 +94,7 @@ main .personagem .imagem {
     box-shadow: 0 0 10px #d9d9d9;
 }
 
-img:focus {
+.botao img {
     outline: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
