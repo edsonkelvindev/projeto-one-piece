@@ -94,7 +94,7 @@ main .personagem .imagem {
     box-shadow: 0 0 10px #d9d9d9;
 }
 
-.botao:focus {
+button:focus {
     outline: none;
     box-shadow: none;
 }
