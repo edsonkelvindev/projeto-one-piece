@@ -83,6 +83,7 @@ main .personagem .imagem {
     background: #000000;
     cursor: pointer;
     border-radius: 50%;
+    focu
 }
 
 .botoes .botao img {
@@ -92,4 +93,8 @@ main .personagem .imagem {
 .botoes .botao.selecionado {
     transform: scale(1.2);
     box-shadow: 0 0 10px #d9d9d9;
+}
+
+.botao:focus {
+    outline: none;
 }
